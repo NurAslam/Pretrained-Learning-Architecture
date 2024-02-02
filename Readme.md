@@ -23,4 +23,6 @@ Model:
 ## Slides
 Link to the presentation: https://drive.google.com/open?id=1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM
 
-![Alt text](D:\New folder (2)\Machine Learning\Architecture CNN\Architecture Transfer Learning\ConvOpsCheatSheet)
+### CheatSheet
+![ConvOpsCheatSheet](https://github.com/NurAslam/Pretrained-Learning-Architecture/assets/56910391/e8a8008f-6b3c-49c8-9d32-7751095b30b2)
+
